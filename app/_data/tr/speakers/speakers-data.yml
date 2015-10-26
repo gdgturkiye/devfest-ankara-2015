@@ -1,9 +1,27 @@
-- 
-  id: 1
-  name: "Belki"
-  surname: "Siz Olabilirsiniz"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: dummyUser.jpg
-  rockstar: true 
+-
+    id: 1
+    name: "Burcu"
+    surname: "Türkmen"
+    title: "Mobil Yazilim Gelistirici"
+    bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldu. GDG Eskişehir topluluğunda aktif olarak görev almakta. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasında. Android uygulamaları geliştirerek başladığı kariyer hayatına, şimdilerde iOS uygulamaları da geliştirerek devam ediyor."
+    thumbnailUrl: burcu.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
+    social:
+        - {name: "twitter", link: "https://twitter.com/btrkmn"}
+        - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
+        - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
+-
+    id: 2
+    name: "Mehmet Sedat"
+    surname: "Kurt"
+    company: "4pps"
+    title: "4pps Ortak Kurucusu"
+    bio: "Mobil uygulama geliştirme ile GDG Ankara yoluyla tanıştım. Biraz merak biraz eğlence için çıktığım bu yolda front-end geliştirici olarak işlerimi sürdürmekteyim. Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun olduktan çok kısa süre sonra arkadaşlarımla birlikte 4PPS firmasını kurduk ve son 1 yıldır önümüze çıkan problemlere mobil çözümler üretmeye çalışıyoruz."
+    thumbnailUrl: sedatkurt.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+    social:
+       - {name: "site", link: "http://mskurt.net"}

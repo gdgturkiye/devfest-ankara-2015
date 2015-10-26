@@ -1,9 +1,27 @@
-- 
-  id: 1
-  name: "Maybe"
-  surname: "You"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: dummyUser.jpg
-  rockstar: true 
+-
+    id: 1
+    name: "Burcu"
+    surname: "Türkmen"
+    title: "Mobile Software Developer"
+    bio: "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. "
+    thumbnailUrl: burcu.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
+    social:
+        - {name: "twitter", link: "https://twitter.com/btrkmn"}
+        - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
+        - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
+-
+    id: 2
+    name: "Mehmet Sedat"
+    surname: "Kurt"
+    title: "Co-Founder at 4pps"
+    company: "4pps"
+    bio: "I have started to mobile developing by GDG Ankara. At the beginning, I was interested in for some curious or fun, now I feel myself as a front-end developer. After graduation from Hacettepe University Computer Engineering, me and my friends have founded the 4PPS company and for a last year we try to make mobile solutions for problems we met."
+    thumbnailUrl: sedatkurt.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+    social:
+       - {name: "site", link: "http://mskurt.net"}
