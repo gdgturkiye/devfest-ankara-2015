@@ -25,3 +25,32 @@
       - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
     social:
        - {name: "site", link: "http://mskurt.net"}
+-
+    id: 3
+    name: "Didem"
+    surname: "Kaya"
+    company: "Gate Elektronik"
+    title: "Yazılım Mühendisi"
+    bio: "2008 yılında Başkent Üniversitesi Bilgisayar Mühendisliği’nden mezun olduktan sonra 2011 yılında Almanya, Eberhard Karls Tübingen Üniversitesi’nde Enformatik alanında yüksek lisansını tamamladı. Yüksek lisans öğrencisiyken çalışmaya başladığı Heiler Software AG’de (2012’den beri Informatica) mezun olunca, Teknik Danışman olarak çalıştı. Türkiye’ye dönüp, AK Yapım Mühendislik firmasında İş Geliştirme Mühendisi olarak çalışmaya başladı. 2013 Aralık ayından beri Gate Elektronik A.Ş.’de  Yazılım Mühendisi olarak çalışmakta. Sesli Haberleşme, Multimedya haberleşmesi, Cloud Computing, Big Data, çalıştığı alanlar arasında. Women Techmakers Ankara’nın organizatörü."
+    thumbnailUrl: didem.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+-
+    id: 4
+    name: "Ramazan"
+    surname: "Subaşı"
+    company: "SAMM Teknoloji"
+    title: "Ürün Yöneticisi"
+    bio: "Elektronik Ön Lisansını bölüm 1.liği ile bitiren Ramazan Subaşı. DGS ile Ege Ünv. Elektrik-Elektronik Mühendisliğine geçiş yaptı.  Eğitim süresi boyunca teknik servis daha sonraları ise ar-ge firmalarında gömülü sistemler üzerinde çalıştı. Şuan Raspberry Pi’nin Türkiye tedariğini sağlayan SAMM Teknoloji’de Ürün Yöneticisi olarak yapıyor. Maker hareketi içinde aktif yer almaktadır. İzmir Hackerspace’in kurucularındandır. İstaenbul Mini Maker Faire 2015 organizasyonunda Kuratör olarak görev almaktadır."
+    thumbnailUrl: ramazan.png
+    rockstar: true
+-
+    id: 5
+    name: "Erdoğan"
+    surname: "Bilgici"
+    company: "LS Bilişim"
+    title: "Yönetici"
+    bio: "1972'de Doğdum. İlk öğrenimi Almanya/Köln'de tamamladım. Comaddore C-64 ve Amiga A-500 ile Bilişim dünyasına giriş yaptım. 1997 Yılında Linux ile tanıştım.(RedHat Linux 5.2) 2000 Yılında Linux34.com Projesini hayata geçirdim. Tüm Türkiye'ye Linux CD'si dağıttık. LS Bilişim'i kurdum. Linux/Network Çözümleri sunuyoruz. 2014 Yılında PardusARM Projesine başladım. PardusARM 1, PardusARM 2 çıkardık. PardusARM 3 Yolda..."
+    thumbnailUrl: erdogan.jpg
+    rockstar: true

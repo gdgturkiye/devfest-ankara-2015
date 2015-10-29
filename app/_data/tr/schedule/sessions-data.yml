@@ -25,3 +25,35 @@
     speakers: [2]
     language: tr
     complexity: "Beginner"
+-
+    id: 103
+    title: "Ada Lovelace Day, Woman Tech Makers"
+    description: "Bu sunumda Ada Lovelace hakkında bilgi verilecektir. Ada Lovelace Gününün ve Woman Tech Makers organizasyonlarının amacı, neden düzenlendiklerini anlatılacaktır."
+    subtype: presentation
+    speakers: [3]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 104
+    title: "Raspberry Pi Workshop"
+    description: "Raspberry Pi kullanımına dair en temel seviyeden başlayacağımız workshop herkesin katılımına açık olacaktır. Anlatılacaklar;, Raspberry Pi kullanımı için gerekli Linux ve Elektronik bilgis, Raspberry Pi kurulum, Raspberry Pi Uygulamaları (GPIO, Kamera, Python, Minecraft), Raspberry Pi’a yazılım yükleme ve kullanım (Webiopi, Wiringpi)"
+    subtype: workshop
+    speakers: [4]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 105
+    title: "PardusARM"
+    description: "Pardus(Tubitak) hakkında bilgi, Gömülü sistemler ve genel özellikleri, Neden PardusARM? PardusARM-3 projeleri: PardusARM ile Okulöncesi ve ilköğretim, PardusARM IoT , PardusARM LAB. ve PardusARM Sunucu/Hosting/Bulut, PardusARM ve gelecek nesillerimiz"
+    subtype: presentation
+    speakers: [5]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 106
+    title: "PardusARM"
+    description: "PardusARM'dan Beklenti ve istekleriniz!, PardusARM ile ortak projeler, eğitimler ve gönüllü topluluklar."
+    subtype: workshop
+    speakers: [5]
+    language: tr
+    complexity: "Beginner"
