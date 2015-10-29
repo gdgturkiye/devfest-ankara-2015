@@ -5,10 +5,16 @@
     <lastmod>2015-10-01T12:00:00+03:00</lastmod>
   </url>
   <url>
+    <loc>http://devfest.gdgankara.org/2015/tr/ankara/</loc>
+  </url>
+  <url>
     <loc>http://devfest.gdgankara.org/2015/tr/blog/</loc>
   </url>
   <url>
     <loc>http://devfest.gdgankara.org/2015/tr/cod/</loc>
+  </url>
+  <url>
+    <loc>http://devfest.gdgankara.org/2015/tr/from-airport/</loc>
   </url>
   <url>
     <loc>http://devfest.gdgankara.org/2015/tr/hackathon/</loc>
@@ -20,6 +26,9 @@
     <loc>http://devfest.gdgankara.org/2015/tr/logistics/</loc>
   </url>
   <url>
+    <loc>http://devfest.gdgankara.org/2015/tr/metu-ccm/</loc>
+  </url>
+  <url>
     <loc>http://devfest.gdgankara.org/2015/tr/schedule/</loc>
   </url>
   <url>
@@ -27,5 +36,8 @@
   </url>
   <url>
     <loc>http://devfest.gdgankara.org/2015/tr/team/</loc>
+  </url>
+  <url>
+    <loc>http://devfest.gdgankara.org/2015/tr/to-airport/</loc>
   </url>
 </urlset>
